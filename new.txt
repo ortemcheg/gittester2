@@ -1,4 +1,6 @@
 hello world
 hello once again
 here we have our third line and an invisible carret return
-now let's see if the previous line has changed
+now let's see what happens if we change one of the lines
+and add new one
+
