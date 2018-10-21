@@ -6,4 +6,4 @@ and add new one
 wondering how it'll handle this situation
 and a change in the first file
 adding one more line
-
+and one more
